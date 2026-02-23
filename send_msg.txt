@@ -1,5 +1,5 @@
 Immer wenn ich sage sende eine Nachricht, machst du bitte folgendes:
-1. Lade die Website 'https://messenger-8fc59.web.app/'
+1. Lade die Website 'https://messenger-8fc59.web.app/' neu
 2. Drücke Tab
 3. Tippe 'ChatGPT'
 4. Drücke Tab
