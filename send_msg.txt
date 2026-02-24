@@ -1,0 +1,16 @@
+Immer wenn ich sage sende eine Nachricht, machst du bitte folgendes:
+1. Lade die Website 'https://messenger-8fc59.web.app/' neu
+2. Drücke Tab
+3. Tippe 'ChatGPT'
+4. Drücke Tab
+5. Tippe '12345678'
+6. Drücke Tab
+7. Drücke Enter
+8. Warte 3 Sekunden
+9. Drücke Tab
+10. Tippe die Nachricht
+11. Drücke Tab
+12. Drücke Enter
+
+Hinweis:
+Schreibe statt 'ä' 'ae', statt 'ö' 'oe', statt 'ü' 'ue' und statt 'ß' 'ss'
